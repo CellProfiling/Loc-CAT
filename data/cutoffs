@@ -1,0 +1,27 @@
+Aggresome:0.060
+Cell Junctions:0.098
+Centrosome:0.094
+Cytoplasm:0.437
+extra_class_1:1.5
+Cytoskeleton (Actin filaments):0.133
+Cytoskeleton (Cytokinetic bridge):0.097
+Cytoskeleton (Intermediate filaments):0.085
+Cytoskeleton (Microtubule end):0.070
+Cytoskeleton (Microtubules):0.165
+Endoplasmic reticulum:0.185
+extra_class_2:1.5
+Focal Adhesions:0.126
+Golgi apparatus:0.181
+extra_class_3:1.5
+Microtubule organizing center:0.048
+Mitochondria:0.264
+NULL:0.1
+Nuclear bodies:0.141
+Nuclear membrane:0.125
+Nuclear speckles:0.161
+Nucleoli:0.183
+Nucleoli (Fibrillar center):0.168
+Nucleoplasm:0.392
+Nucleus:0.238
+Plasma membrane:0.278
+Vesicles:0.271
